@@ -14,7 +14,7 @@ This Toy-project is used to demonstrate the knowledge of javascript by building 
 ### HTML
 ### Javascript
 
-# Authoe
+# Author
 Sarah mumbua
 
 # License 

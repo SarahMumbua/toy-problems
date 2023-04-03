@@ -9,8 +9,6 @@ This Toy-project is used to demonstrate the knowledge of javascript by building 
 2. navigate to the folder contaiing index.html
 3. open the index.html on the browser most preferably Google chrome.
 
-# BDD
-The final program should resemble the sample provided
 
 ## Technologies Used
 ### HTML
